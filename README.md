@@ -1,4 +1,4 @@
-# EcogMVARTools_NHB_submission
+# Auditory Corollary Discharge
 
 This is a provisional repository showcasing the analysis code for manuscript entitled "A Corollary Discharge Circuit in Human Speech".
 
